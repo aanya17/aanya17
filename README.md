@@ -123,11 +123,11 @@ class Aanya:
 
 ### 🎯 Career Guider — AI Career Path Platform *(Hackathon Finalist)*
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://bit.ly/career-path-ai)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/aanya17/Career-Guider)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/aanya17/Career-Guider)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/aanya17/Career-Guider)
 
-> 🔗 [View Project](https://bit.ly/career-path-ai)
+> 🔗 [View Project](https://github.com/aanya17/Career-Guider)
 
 - 🗺️ AI-driven platform generating **personalized career paths** & skill-gap analysis
 - 💬 Leveraged **Amazon Bedrock Nova Pro** for chat-based mentoring
