@@ -40,17 +40,18 @@ class Aanya:
 
     stack = {
         "languages" : ["Python", "Java", "C"],
-        "frontend"  : ["HTML", "CSS", "Figma"],
+        "frontend"  : ["HTML", "CSS", "React", "Figma"],
         "ai_ml"     : ["TensorFlow", "CNN", "OpenCV", "NumPy"],
         "mobile"    : ["Flutter", "Kotlin", "Wear OS"],
-        "cloud"     : ["AWS", "Firebase", "Amazon Bedrock"],
+        "backend"   : ["Flask", "Python"],
+        "cloud"     : ["Firebase", "Vercel"],
         "tools"     : ["Git", "Android Studio", "VS Code"],
     }
 
     currently_doing = [
+        "🛡️ Building security monitoring systems",
         "🤖 Building AI-powered apps",
         "📱 Exploring mobile dev (Flutter & Kotlin)",
-        "☁️  Experimenting with AWS & serverless",
         "🎨 Crafting pixel-perfect UIs in Figma",
     ]
 
@@ -62,7 +63,7 @@ class Aanya:
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,figma,flutter,kotlin,tensorflow,opencv,firebase,aws,git,github,androidstudio,vscode&perline=8&theme=dark" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,figma,flutter,kotlin,tensorflow,opencv,firebase,flask,git,github,androidstudio,vscode&perline=9&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -106,17 +107,17 @@ class Aanya:
 
 ---
 
-### 🤖 Career Path AI *(Hackathon Finalist)*
+### 🛡️ WAF Analytics — Security Monitoring System *(IBM SkillsBuild Internship)*
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://bit.ly/career-path-ai)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/aanya17/waf-analytics)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/aanya17/waf-analytics)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://waf-analytics-kisz.vercel.app)
 
-> 🔗 [View Project](https://bit.ly/career-path-ai)
+> 🔗 [GitHub](https://github.com/aanya17/waf-analytics) &nbsp;|&nbsp; 🚀 [Live Demo](https://waf-analytics-kisz.vercel.app)
 
-- 🗺️ AI-driven platform generating **personalized career paths** & skill-gap analysis
-- 💬 Leveraged **Amazon Bedrock Nova Pro** for chat-based mentoring
-- ☁️ Serverless backend with **AWS Lambda & API Gateway**
+- 🔥 Built a full-stack **real-time firewall monitoring dashboard** with live log streaming, threat detection & interactive analytics
+- 🧠 Implemented **Firewall Rule Health Scoring** algorithm + **NIST CSF mapping** as novel research contributions (NETCRYPT 2026)
+- ⚡ Deployed end-to-end on **Vercel** with CI/CD via GitHub — Python Flask backend + React frontend
 
 ---
 
@@ -139,7 +140,7 @@ class Aanya:
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://bit.ly/NeuroWatch)
 [![Wear OS](https://img.shields.io/badge/Wear_OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)](https://bit.ly/NeuroWatch)
 
-> 🔗 [View Project](https://bit.ly/NeuroWatch)
+> 🔗 [View Project](https://bit.ly/NeuroWatch) &nbsp;|&nbsp; 🚀 [Live Demo](https://neuro-watch-seven.vercel.app/)
 
 - 🏥 End-to-end wearable solution for **real-time patient monitoring**
 - 📱 Developed Wear OS app using **Kotlin & Jetpack Compose**
@@ -158,7 +159,7 @@ class Aanya:
 | 🏆 **CSI Hackathon** | National Level Finalist — UPES |
 | 🥈 **InnovFest Hackmatrix** | Runners-Up |
 | 🏆 **HackVeda Finalist** | Sponsored by IBM & AWS — IILM University |
-| 🤖 **Career Path AI** | Hackathon Finalist — AWS Bedrock Powered Platform |
+| 🛡️ **WAF Analytics** | IBM SkillsBuild Internship · NETCRYPT 2026 Research |
 | 🔍 **AI Image Detector** | Hackathon Finalist |
 | 🌳 **Srijan Social Internship** | Coordinated plantation drive (200 saplings) + 30+ volunteers |
 | 💻 **ACM Core Member** | Organized coding workshops & events |
