@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=100&lines=Hey!+I'm+Aanya+Chahal+%F0%9F%91%8B;AI+%26+Frontend+Enthusiast+%F0%9F%A4%96;Hackathon+Finalist+%F0%9F%8F%86;CSE+%40+UPES+Dehradun+%F0%9F%8E%93;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=100&lines=Hey!+I'm+Aanya+Chahal+%F0%9F%91%8B;AI+%26+Security+Enthusiast+%F0%9F%A4%96;Hackathon+Finalist+%F0%9F%8F%86;CSE+%40+UPES+Dehradun+%F0%9F%8E%93;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -116,8 +116,22 @@ class Aanya:
 > 🔗 [GitHub](https://github.com/aanya17/waf-analytics) &nbsp;|&nbsp; 🚀 [Live Demo](https://waf-analytics-kisz.vercel.app)
 
 - 🔥 Built a full-stack **real-time firewall monitoring dashboard** with live log streaming, threat detection & interactive analytics
-- 🧠 Implemented **Firewall Rule Health Scoring** algorithm + **NIST CSF mapping** as novel research contributions (NETCRYPT 2026)
+- 🧠 Implemented **Firewall Rule Health Scoring** algorithm + **NIST CSF mapping** as novel contributions
 - ⚡ Deployed end-to-end on **Vercel** with CI/CD via GitHub — Python Flask backend + React frontend
+
+---
+
+### 🎯 Career Guider — AI Career Path Platform *(Hackathon Finalist)*
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://bit.ly/career-path-ai)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://bit.ly/career-path-ai)
+
+> 🔗 [View Project](https://bit.ly/career-path-ai)
+
+- 🗺️ AI-driven platform generating **personalized career paths** & skill-gap analysis
+- 💬 Leveraged **Amazon Bedrock Nova Pro** for chat-based mentoring
+- ☁️ Serverless backend with **AWS Lambda & API Gateway**
 
 ---
 
@@ -148,6 +162,25 @@ class Aanya:
 
 ---
 
+## 📄 Research
+
+<table align="center">
+  <tr>
+    <td>🔬</td>
+    <td><b>Co-author — NETCRYPT 2026</b> (Paper ID: 1119) · Accepted for Oral Presentation & Full Paper Publication</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>📝 <i>"2D Coupled Modular Dynamical Pseudorandom Generator with Empirical Security Validation and Image Encryption Application"</i></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>🔐 Proposes a novel PRNG architecture with chaos-based image encryption and empirical security analysis</td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Achievements & Activities
 
 <p align="center">
@@ -155,19 +188,20 @@ class Aanya:
 | 🏅 Achievement | 🎯 Details |
 |---|---|
 | 🥈 **NeuroWatch** | Runners-Up — National Level AI Fest 2026, Chandigarh University |
-| 🏆 **SIH Finalist** | Smart India Hackathon — AI Cattle Breed Identification |
+| 📜 **NETCRYPT 2026** | Co-author — Accepted Research Paper (Oral Presentation) |
 | 🏆 **CSI Hackathon** | National Level Finalist — UPES |
 | 🥈 **InnovFest Hackmatrix** | Runners-Up |
 | 🏆 **HackVeda Finalist** | Sponsored by IBM & AWS — IILM University |
-| 🛡️ **WAF Analytics** | IBM SkillsBuild Internship · NETCRYPT 2026 Research |
+| 🛡️ **WAF Analytics** | IBM SkillsBuild Internship Project |
 | 🔍 **AI Image Detector** | Hackathon Finalist |
+| 🐄 **SIH Participant** | Smart India Hackathon — AI Cattle Breed Identification |
 | 🌳 **Srijan Social Internship** | Coordinated plantation drive (200 saplings) + 30+ volunteers |
 | 💻 **ACM Core Member** | Organized coding workshops & events |
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SIH-National%20Finalist-%23FF69B4?style=for-the-badge&logoColor=white" alt="SIH badge"/>
+  <img src="https://img.shields.io/badge/NETCRYPT_2026-Research_Published-%23FF69B4?style=for-the-badge&logoColor=white" alt="Research badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/NeuroWatch-National%20Runners--Up-%23FFD700?style=for-the-badge&logoColor=black" alt="NeuroWatch badge"/>
   &nbsp;
@@ -185,6 +219,22 @@ class Aanya:
 | UPES, Dehradun | B.Tech — CSE | 2023–2027 | CGPA: **8.3** |
 | Scholars Home, Dehradun | Class 12 — CBSE | 2023 | **76%** |
 | Mussoorie International School | Class 10 — ICSE | 2021 | **89%** |
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/aanya_chahal/">
+    <img src="https://leetcard.jacoblin.cool/aanya_chahal?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/aanya_chahal/">
+    <img src="https://img.shields.io/badge/LeetCode-aanya__chahal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
