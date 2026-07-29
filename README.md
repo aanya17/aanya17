@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="coding gif"/>
 
 ## 🤙 Who Am I?
 
