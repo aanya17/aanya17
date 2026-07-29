@@ -226,6 +226,10 @@ class Aanya:
 
 ## 🧩 LeetCode Stats
 
+<table>
+<tr>
+<td>
+
 <p align="center">
   <a href="https://leetcode.com/u/aanya_chahal/">
     <img src="https://leetcard.jacoblin.cool/aanya_chahal?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
@@ -238,7 +242,12 @@ class Aanya:
   </a>
 </p>
 
----
+</td>
+<td width="35%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J1NzF2bHJobHVuZGVpamwwYWM1NGdvd2JsMjVmZ3h0Yzk4dGRidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0irIDXCtXpsHlgGq2p/giphy.gif" width="260" alt="leetcode gif"/>
+</td>
+</tr>
+</table>
 
 ## 📫 Let's Connect
 
