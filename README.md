@@ -30,6 +30,10 @@
 
 ## 🤙 Who Am I?
 
+<table>
+<tr>
+<td width="65%">
+
 ```python
 class Aanya:
     name       = "Aanya Chahal"
@@ -60,7 +64,12 @@ class Aanya:
     fun_fact = "I once achieved 95% accuracy on a model — then made it offline too 📱"
 ```
 
----
+</td>
+<td width="35%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNlcm1kempiam1lMjNyMHh5bGdua3QxdGxweWg0ajk4b24xd2F3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif" width="340"/>
+</td>
+</tr>
+</table>
 
 ## ⚡ Tech Arsenal
 
