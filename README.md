@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aanyachahal17&label=%F0%9F%91%81+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=aanya17&label=%F0%9F%91%81+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile views"/>
 &nbsp;
 <a href="mailto:aanyachahal17@gmail.com">
   <img src="https://img.shields.io/badge/%F0%9F%93%A7+Hit+Me+Up-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
