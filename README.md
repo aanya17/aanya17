@@ -1,26 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=100&lines=Hey!+I'm+Aanya+Chahal+%F0%9F%91%8B;AI+%26+Security+Enthusiast+%F0%9F%A4%96;Hackathon+Finalist+%F0%9F%8F%86;CSE+%40+UPES+Dehradun+%F0%9F%8E%93;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&animation=twinkling"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aanya%20Chahal&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Security%20%7C%20Research%20%7C%20CSE%20%40%20UPES%20Dehradun&descAlignY=60&descAlign=50&descSize=18&descColor=FF69B4"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanyachahal17&label=%F0%9F%91%81+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile views"/>
-  &nbsp;
-  <a href="mailto:aanyachahal17@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7+Hit+Me+Up-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/aanya-chahal-354a13295?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/aanya.chahal?igsh=czhnems1Y2NoeWNi&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=60&lines=Hey!+I'm+Aanya+Chahal+%F0%9F%91%8B;AI+%26+Security+Enthusiast+%F0%9F%A4%96;Hackathon+Finalist+%F0%9F%8F%86;CSE+%40+UPES+Dehradun+%F0%9F%8E%93;Building+Intelligent+Systems+%F0%9F%9A%80;Researcher+%40+NETCRYPT+2026+%F0%9F%94%AC" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=aanyachahal17&label=%F0%9F%91%81+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+<a href="mailto:aanyachahal17@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7+Hit+Me+Up-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/aanya-chahal-354a13295?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/aanya.chahal?igsh=czhnems1Y2NoeWNi&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
