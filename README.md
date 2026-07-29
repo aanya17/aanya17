@@ -66,7 +66,7 @@ class Aanya:
 
 </td>
 <td width="35%" align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNlcm1kempiam1lMjNyMHh5bGdua3QxdGxweWg0ajk4b24xd2F3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif" width="340"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNlcm1kempiam1lMjNyMHh5bGdua3QxdGxweWg0ajk4b24xd2F3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif" width="260" height="450"/>
 </td>
 </tr>
 </table>
