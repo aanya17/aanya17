@@ -264,9 +264,13 @@ class Aanya:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/aanya.chahal?igsh=czhnems1Y2NoeWNi&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://www.instagram.com/aanya.chahal?igsh=czhnems1Y2NoeWNi&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://aanya17.github.io/MyPortfolio">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-FF6B9D?style=for-the-badge"/>
+</a>
   &nbsp;
   <a href="tel:+917906473579">
     <img src="https://img.shields.io/badge/📞+91--7906473579-25D366?style=for-the-badge&logoColor=white" alt="Phone"/>
